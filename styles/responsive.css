@@ -2,11 +2,37 @@
   header {
     padding: 0px 15px;
   }
-
   main {
     height: 700px;
-
     padding: 130px 10px 0px 10px;
+  }
+  .description {
+    gap: 35px;
+  }
+  .bookers img {
+    width: 40px;
+  }
+  .bookers h4 {
+    font-size: 20px;
+  }
+  .leaf h4 {
+    font-size: 20px;
+    width: 104px;
+  }
+  .leaf img {
+    width: 40px;
+  }
+  .Ecoliday h4 {
+    font-size: 20px;
+  }
+  .Ecoliday img {
+    width: 40px;
+  }
+  .Naturloop h4 {
+    font-size: 20px;
+  }
+  .Naturloop img {
+    width: 40px;
   }
 }
 
@@ -28,5 +54,44 @@
 
   .search {
     width: 40px;
+  }
+  .background-text h3 {
+    font-size: 22px;
+    padding-top: 30px;
+  }
+  .background-text h4 {
+    font-size: 12px;
+  }
+  .bookers img {
+    width: 20px;
+  }
+  .bookers h4 {
+    font-size: 10px;
+  }
+  .leaf h4 {
+    font-size: 10px;
+    width: 55px;
+  }
+  .leaf img {
+    width: 20px;
+  }
+  .Ecoliday h4 {
+    font-size: 10px;
+  }
+  .Ecoliday img {
+    width: 2dvb;
+  }
+  .Naturloop h4 {
+    font-size: 10px;
+  }
+  .Naturloop img {
+    width: 20px;
+  }
+  .description {
+    gap: 10px;
+  }
+  .grn-background-section {
+    padding: 0px;
+    height: 250px;
   }
 }

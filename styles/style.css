@@ -168,3 +168,73 @@ main {
 .Naturloop h4 {
   margin-left: 13px;
 }
+.lorem {
+  text-align: center;
+}
+.lorem h2 {
+  margin-top: 59px;
+  margin-bottom: 19px;
+  color: #2d2d2d;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 44px;
+}
+.lorem h5 {
+  color: #000;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+}
+.card-container {
+  width: 1438px;
+  height: 937px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+}
+.cards {
+  width: 701.951px;
+  height: 350.788px;
+  border: 1px solid;
+  display: flex;
+  gap: 35px;
+}
+
+.card1 {
+  width: 333.427px;
+  background-color: #f2f2f2;
+  padding: 26px;
+}
+.card1-img {
+  width: 265px;
+}
+.card1 h2 {
+  color: #000;
+  font-size: 30.71px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 39.485px;
+  margin-bottom: 8px;
+}
+.card1 h5 {
+  color: #000;
+  font-size: 17.549px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+  margin-bottom: 26px;
+}
+.seemore-btn {
+  color: #38813a;
+  text-align: center;
+  font-size: 17.549px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26.323px;
+  border-radius: 5.484px;
+  border: 2.194px solid #38813a;
+  background-color: #fff;
+  cursor: pointer;
+}
