@@ -45,6 +45,8 @@
   }
   .card-container {
     padding: 0px 15px;
+    align-items: center;
+    height: 600px;
   }
   .big-picture {
     height: 350px;
@@ -64,9 +66,6 @@
   .lorem h2 {
     margin-bottom: 30px;
   }
-  .lorem h5 {
-    margin-bottom: 150px;
-  }
   .dolor {
     font-size: 14px;
     margin-top: 10px;
@@ -77,6 +76,32 @@
   }
   .cards3 {
     padding: 0px 10px;
+  }
+  .input,
+  .input2 {
+    width: 300px;
+  }
+  .section {
+    padding: 50px 20px;
+  }
+  .Big-image {
+    width: 370px;
+    height: 600px;
+  }
+  .forms {
+    column-gap: 60px;
+  }
+  footer {
+    padding: 80px 10px;
+  }
+  .links {
+    column-gap: 20px;
+  }
+  .links a {
+    font-size: 14px;
+  }
+  .subscribe-desc {
+    width: 40%;
   }
 }
 
@@ -163,7 +188,7 @@
     font-size: 22px;
   }
   .lorem h5 {
-    margin-bottom: 115px;
+    margin-bottom: 245px;
   }
   .big-picture {
     width: 335px;
@@ -181,7 +206,7 @@
     margin-bottom: 15px;
   }
   .nature {
-    margin-top: 222px;
+    margin-top: 300px;
   }
   .cards {
     padding: 0px 15px;
@@ -208,12 +233,49 @@
   .cards3 {
     flex-direction: column;
     padding: 0px 10px;
+    align-items: center;
   }
   .circle-buttons {
-    margin-top: 560px;
+    margin-top: 580px;
+    margin-bottom: 75px;
   }
   .card1-jane,
   .card2-jane {
     width: 350px;
+  }
+
+  .forms {
+    flex-direction: column;
+  }
+  .contact-us {
+    font-size: 27px;
+    margin-bottom: 10px;
+  }
+  .form-desc {
+    margin-bottom: 10px;
+    font-size: 15px;
+  }
+  .Name {
+    font-size: 15px;
+  }
+  .input,
+  .input2 {
+    margin-bottom: 10px;
+  }
+  .input2 {
+    height: 100px;
+  }
+  .Big-image {
+    width: 300px;
+  }
+  .logo-footer2 {
+    width: 90px;
+  }
+  .input-footer {
+    font-size: 14px;
+    width: 100%;
+  }
+  .subscribe-desc {
+    width: 65%;
   }
 }
